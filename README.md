@@ -15,10 +15,6 @@ A validação de dados e a facilidade de preenchimento são pilares fundamentais
 
 Este exercício demonstra o domínio sobre a manipulação eficiente do DOM e a integração de plugins externos para enriquecer a interface.
 
-## 🖼️ Demonstração Visual
-
-*(Espaço reservado para screenshots. Sugestão: Tire um print do formulário mostrando as mensagens de erro de validação)*
-
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto utiliza uma stack clássica e robusta para manipulação de interfaces:
